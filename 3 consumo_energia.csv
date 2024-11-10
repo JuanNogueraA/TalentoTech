@@ -1,0 +1,13 @@
+Edificio,Consumo kWh,Costo Energía ($),Fecha de Medición,Ubicación
+Edificio A,1500,300,2023-01-01,Ciudad 1
+Edificio B,2000,400,2023-01-01,Ciudad 2
+Edificio C,1800,360,2023-01-01,Ciudad 3
+Edificio A,1700,340,2023-02-01,Ciudad 1
+Edificio B,2200,440,2023-02-01,Ciudad 2
+Edificio C,1900,380,2023-02-01,Ciudad 3
+Edificio A,1600,320,2023-03-01,Ciudad 1
+Edificio B,2100,420,2023-03-01,Ciudad 2
+Edificio C,1850,370,2023-03-01,Ciudad 3
+Edificio A,1650,330,2023-04-01,Ciudad 1
+Edificio B,2150,430,2023-04-01,Ciudad 2
+Edificio C,1950,390,2023-04-01,Ciudad 3
